@@ -23,6 +23,3 @@ This project demonstrates improvements to Windows endpoint deployment using Grou
 - PowerShell scripting and automation
 - Endpoint-security deployment and troubleshooting
 - Testing and technical documentation
-
-## Security Note
-The PowerShell script is a sanitised portfolio example. Verify the trusted installer source, supported installation arguments, and expected exit codes before using it in another environment.
